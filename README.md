@@ -1,4 +1,4 @@
-# GodotFirstPersonMovment
+# GodotFirstPersonMovment (C#)
 
 A simple First Person Movement System made for Godot
 # Requirments
